@@ -10,6 +10,9 @@ ex) Microsoft 365 : Office Application 제공(Excel, Word 등) 클라우드에�
     Google Workspace : Gmail, Google Drive, Google Docs등 클라우드 기반 생산성 도구 
     Salesforce : CRM(고객 관계 관리)소프트웨어로, 영업, 마케팅, 고객 서비스 등을 지원 
 
+![IaaS](https://github.com/user-attachments/assets/9895c798-b879-45e7-affa-e4b9c7360478)
+
+---
 #### PaaS(Platform as a Service) 
 - Application개발, 실행 및 관리를 위해 제공되는 클라우드 컴퓨팅 플랫폼
 - PaaS를 통해 개발자는 인프라 관리에 신경 쓰지 않고 Application개발에 집중할 수 있다.
@@ -22,6 +25,9 @@ ex) Google App Engine : Google Cloud에서 제공하는 PaaS로, 애플리케이
     Microsoft Azure App Service : Microsoft Azure에서 제공하는 PaaS로, Web Application과 API를 빠르게 개발, 배포 및 확장할 수 있다.
     Heroku : Salesforce에서 제공하는 PaaS로, 다양한 프로그래밍 언어를 지원하며, 손쉽게 Application을 배포할 수 있다. 
 
+![PaaS](https://github.com/user-attachments/assets/2614ae56-56ab-499a-8840-8d0b54569e5f)
+
+---
 #### IaaS(Infrastructure as a Service)
 - 클라우드 컴퓨팅 서비스 모델
 - 가상화된 컴퓨팅 리소스(서버, 스토리지, 네트워킹 등)를 인터넷을 통해 제공하는 방식.
@@ -35,7 +41,5 @@ ex) Amazon Web Services(AWS) EC2 : 다양한 크기의 가상 서버를 제공�
     Microsoft Azure Virtual Machines : 다양한 운영 체제와 Application을 실행할 수 있는 가상 머신을 제공한다. 
     Google Cloud Compute Engine : 고성능 가상 머신을 제공하여 대규모 데이터 처리 작업을 지원한다. 
 
-    <img src = "https://github.com/user-attachments/assets/644dda6f-f967-4911-9a7c-b06f5d4603d7" width="700" height="400"/>
-    ![image](https://github.com/user-attachments/assets/644dda6f-f967-4911-9a7c-b06f5d4603d7)
 ![IaaS](https://github.com/user-attachments/assets/1196b30f-f176-4902-8e48-d880b33252e4)
 
