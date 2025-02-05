@@ -37,4 +37,5 @@ ex) Amazon Web Services(AWS) EC2 : 다양한 크기의 가상 서버를 제공�
 
     <img src = "https://github.com/user-attachments/assets/644dda6f-f967-4911-9a7c-b06f5d4603d7" width="700" height="400"/>
     ![image](https://github.com/user-attachments/assets/644dda6f-f967-4911-9a7c-b06f5d4603d7)
+![IaaS](https://github.com/user-attachments/assets/1196b30f-f176-4902-8e48-d880b33252e4)
 
