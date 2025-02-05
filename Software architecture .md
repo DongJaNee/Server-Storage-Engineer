@@ -35,5 +35,6 @@ ex) Amazon Web Services(AWS) EC2 : 다양한 크기의 가상 서버를 제공�
     Microsoft Azure Virtual Machines : 다양한 운영 체제와 Application을 실행할 수 있는 가상 머신을 제공한다. 
     Google Cloud Compute Engine : 고성능 가상 머신을 제공하여 대규모 데이터 처리 작업을 지원한다. 
 
-    <img src = "https://github.com/user-attachments/assets/d6c289ad-3adc-488a-ac9a-5fcb0e546b65" width="700" height="400"/>
-    
+    <img src = "https://github.com/user-attachments/assets/644dda6f-f967-4911-9a7c-b06f5d4603d7" width="700" height="400"/>
+    ![image](https://github.com/user-attachments/assets/644dda6f-f967-4911-9a7c-b06f5d4603d7)
+
