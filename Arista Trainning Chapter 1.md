@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/40a53a5f-6fe5-4250-993f-47849ffe1f0d)### Booting 
+### Booting 
+
 1. 로그인 : 초기 상태의 계정은 admin이며 PW는 없다. 
 2. EXEC -> Privileged EXEC 모드 이동 : enable password가 설정되어 있다면 PW입력이 필요 ( ※디폴트는 없음) 
 3. OS Upgrade 
