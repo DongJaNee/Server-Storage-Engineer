@@ -1,3 +1,17 @@
+## Connect Serial Console 
+- Serial 설정 
+1. Com 포트 확인 (MS Windows : 장치 관리자 > 포트 (COM & LPT))
+2. 터미널에서 환경에 맞게 설정 
+
+
+![serial 연결](https://github.com/user-attachments/assets/616d12fd-bc05-456e-8e77-4d609b7fb613)
+
+
+![제조사 기본값](https://github.com/user-attachments/assets/8c103ad3-4b7f-4d86-8396-e5f6e41bb4b5)
+
+- 제조사 기본값은 동일하다. 
+
+--- 
 ## Booting 
 
 - 로그인 : 초기 상태의 계정은 admin이며 PW는 없다. 
