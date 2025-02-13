@@ -1,8 +1,10 @@
-### Booting 
+## Booting 
 
-1. 로그인 : 초기 상태의 계정은 admin이며 PW는 없다. 
-2. EXEC -> Privileged EXEC 모드 이동 : enable password가 설정되어 있다면 PW입력이 필요 ( ※디폴트는 없음) 
-3. OS Upgrade 
+- 로그인 : 초기 상태의 계정은 admin이며 PW는 없다. 
+- EXEC -> Privileged EXEC 모드 이동 : enable password가 설정되어 있다면 PW입력이 필요 ( ※디폴트는 없음) 
+
+#### OS Upgrade 
+
 1) 신품 장비라 하더라도 최신 OS가 설치되어 있는 것이 아니기에 설치 초기에 OS 버전을 확인하고 OS 변경하는 것을 권장.
 --- 
 
@@ -50,7 +52,7 @@ Arista가 지원하는 File System은 FAT 계열 및 VFAT을 지원하며, NTFS�
 
 ---
 
-4. 로그인 및 ZTP (Zero-touch provisioning) 모드 해제
+#### 로그인 및 ZTP (Zero-touch provisioning) 모드 해제
 - ZTP (Zero-touch Provisioning)모드 해제 (※ 디폴트로 활성화 되어 있음)
 - 초기 부팅시 ZTP모드로 부팅되어 zero-touch cancle 또는 disable 명령어를 입력하여 모드를 해제 
 - 재부팅이 동반됨 
@@ -59,7 +61,7 @@ Arista가 지원하는 File System은 FAT 계열 및 VFAT을 지원하며, NTFS�
 ![ZTP 모드 해제](https://github.com/user-attachments/assets/1836f7b3-807d-4ad1-bcdf-7c266a9e95ca)
 
 --- 
-5. 상태확인 CLI
+#### 상태확인 CLI
 - 상태 확인 명령어 
 1) show environment[ all / cooling / power / temperature ] 
   Fan 동작 상태, Power 공급 상태 확인 
