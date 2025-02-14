@@ -115,6 +115,8 @@ terminal width <0-32767>
 - Arista 기본값 : MSTP
  ![STP](https://github.com/user-attachments/assets/fb780a9e-da67-40d8-b78d-6e5b531a58f0)
 
+- 프로토콜 변경 방법 
+
 ---
 ## SVI (Switched VLAN Interface)
 Interface VLAN
