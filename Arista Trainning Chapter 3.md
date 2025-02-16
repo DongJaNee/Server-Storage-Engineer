@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/5cd720f3-45b8-4901-be34-15d453b4e61b)![image](https://github.com/user-attachments/assets/e0ce2ba5-79a9-4573-953d-364064f207cd)
-
 ## Useful CMD & TROUBLESHOOT
 
 ---
