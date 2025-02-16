@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/e116283e-5f0a-45ae-919e-46a3a151e0a0)![image](https://github.com/user-attachments/assets/7fc6ded1-6054-4595-85f7-ac92a4530f29)
-
 ## CLI 모드의 종류 및 모드 변경 방법
 - EXEC 모드 (EXEC 모드에서는 장비의 기초적인 정보만 확인 가능)
   ex) switch>
