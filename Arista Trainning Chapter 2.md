@@ -47,62 +47,62 @@ terminal width <0-32767>
 ![Configuration Files](https://github.com/user-attachments/assets/ddd4f99c-a3b7-4fba-8b0b-f2a57437f587)
 
 ---
-#### 호스트 네임 변경과 계정 설정 
+### 호스트 네임 변경과 계정 설정 
 
 ![호스트 네임과 계정 설정 방법](https://github.com/user-attachments/assets/5f2af75f-8874-4e08-9dfb-12c2c9cd0b07)
 
 ---
-#### 도메인 네임 설정 및 DNS 설정 
+### 도메인 네임 설정 및 DNS 설정 
 
 ![도메인 네임 설정](https://github.com/user-attachments/assets/62750efe-4468-44ed-b340-ea784725123f)
 
 ---
-#### 시간 설정 및 NNTP 설정 
+### 시간 설정 및 NNTP 설정 
 
 ![시간 설정 및 NTP 설정](https://github.com/user-attachments/assets/f808ccf7-70a7-4f21-aa8f-4f51d9f1ec68)
 
 ---
-#### 시간, NTP 상태 및 동작 확인 방법 
+### 시간, NTP 상태 및 동작 확인 방법 
 
 ![시간, NTP 상태 및 동작 확인 방법](https://github.com/user-attachments/assets/c2a861bd-c46f-4b12-801f-4b8751e70182)
 
 ---
-#### 로깅 설정 
+### 로깅 설정 
 
 ![로깅 설정](https://github.com/user-attachments/assets/039d3a8d-6052-46e9-a1f1-d8dea9c07abf)
 
 ---
-#### SNMP 설정
+### SNMP 설정
 
 ![SNMP 설정](https://github.com/user-attachments/assets/f83d1f2b-08a3-498b-bf44-f26eabc2d716)
 
 ---
-#### 배너 설정 
+### 배너 설정 
 
 ![배너 설정](https://github.com/user-attachments/assets/1ee5a878-7656-4e69-b3d8-890239ce3813)
 
 ---
-#### 터미널 프로토콜 별 설정 
+### 터미널 프로토콜 별 설정 
 
 ![터미널 프로토콜 설정](https://github.com/user-attachments/assets/b8648fd9-007c-4d14-a14c-ad8681a48333)
 
 ---
-#### 관리 인터페이스 설정과 VRF (Virtual Routing and Forwarding)
+### 관리 인터페이스 설정과 VRF (Virtual Routing and Forwarding)
 
 ![관리 인터페이스 설정과 VRF](https://github.com/user-attachments/assets/1d2deffe-e777-42ae-aebb-87dd8f75487c)
 
 ---
-#### OOB Configuration
+### OOB Configuration
 
 ![OOB Management](https://github.com/user-attachments/assets/78070907-3b3a-458f-9fe8-3dc1649667d6)
 
 ---
-#### LLDP (Link Layer Discovery Protocol)
+### LLDP (Link Layer Discovery Protocol)
 
 ![image](https://github.com/user-attachments/assets/7fe9ae74-5025-4fd3-bb89-6b33286850fa)
 
 ---
-#### VLAN (Virtual Local Area Network)
+### VLAN (Virtual Local Area Network)
 - VLAN 생성 및 설정, 확인
 
 ![VLAN](https://github.com/user-attachments/assets/b0297dfe-e0f3-4706-8669-e285495dc823)
@@ -127,7 +127,7 @@ Interface VLAN
 - Gateway용도 : Inter-VLAN Routing
 - Layer 3 Routing
 
-#### Interface VLAN 설정
+### Interface VLAN 설정
 
 ![Interface VLAN 설정](https://github.com/user-attachments/assets/f0d01783-0d19-40ad-bccc-f46544bdf314)
 
@@ -136,11 +136,11 @@ Interface VLAN
 
 ---
 ## InterFace (L2) 
-#### Trunk (Tagging) vs Access (U nntagging) 
+### Trunk (Tagging) vs Access (U nntagging) 
 
 ![image](https://github.com/user-attachments/assets/e065ec6b-86a2-4299-8ee0-99dcf609f36c)
 
-#### Layer2 인터페이스 설정 
+### Layer2 인터페이스 설정 
 - Access Port 설정법
 
 ![image](https://github.com/user-attachments/assets/f6260b2d-ee2c-4224-b116-9b700430de45)
@@ -154,14 +154,14 @@ Interface VLAN
 ※ VLAN tag를 인식하지 못하는 장치와 연결될 시에도 통신이 가능하도록 사용되는 기능으로 해당 VLAN에 대해서는 Unntagging 처리되며, Untagged 패킷을 수신한 경우, Native VLAN으로 Taggin 하여 내부 처리 된다. 
 
 ## Interface (L3) 
-#### Layer 3 인터페이스 설정 
+### Layer 3 인터페이스 설정 
 - L3 인터페이스 포트 설정법
 
 ![image](https://github.com/user-attachments/assets/636e7c1d-dc3c-4677-85c9-5e9300e94716)
 
 ---
 ## LAG (Link Aggregation) 
-#### Link Aggregation
+### Link Aggregation
 - 물리적으로 여러 개의 링크를 합쳐 논리적으로 하나의 링크처럼 동작시키는 기술
 - 제조사 또는 환경에 따라 용어가 달리 사용되나 동일한 카테고리에 속하는 기술 
 1) LACP : IEEE 802.3ad에서 제정된 표준화 된 LAG를 위한 프로토콜
@@ -177,7 +177,7 @@ Interface VLAN
 ![image](https://github.com/user-attachments/assets/b5327812-9e24-43e3-aa30-6d7a7b94ab05)
 
 
-#### LAG on Arista
+### LAG on Arista
 - Channel-Group 설정
 
 ![image](https://github.com/user-attachments/assets/cb779d9c-22b7-4acf-9522-274790707675)
@@ -202,17 +202,17 @@ Interface VLAN
 
 ![image](https://github.com/user-attachments/assets/b956b028-b957-4ec2-8e81-53811643e9a3)
 
-#### VRRP 설정 
+### VRRP 설정 
 
 ![image](https://github.com/user-attachments/assets/cc54feb8-5c5a-4df5-81a9-cd91fb6c8784)
 
 
-#### VRRP 상태 확인 
+### VRRP 상태 확인 
 
 ![image](https://github.com/user-attachments/assets/4ced5976-61dc-4232-beb2-27c4f9d0fd1a)
 
 
-#### VARP (Virtual Address Resolution Protocol)
+### VARP (Virtual Address Resolution Protocol)
 - Layer3 Anycaast Gateway라고도 한다 (DellEMC는 Anycast IP Gateway for VLANs)
 - Active-Standby 구성의 단점을 보완하여 Active-Actiive 구성을 구현하는 표준 프로토콜
 - Shared Virtual MAC주ㅜ소를 사용하여 Shared Virtual IP 주소에 대한 ARP 및 GARP ( Gratuious ARP)에 대한 요청에 설정된 모든 라우터가 응답을 수행
@@ -225,13 +225,13 @@ Interface VLAN
 
 ![image](https://github.com/user-attachments/assets/eec9db9b-e728-4ba1-9a38-0f5aeea05bb9)
 
-#### VARP 설정 
+### VARP 설정 
 
 ![image](https://github.com/user-attachments/assets/cbaa6e83-7416-4566-9817-467859955e3c)
 
 - VMAC주소는 아무거나 써도 무방, Arista 권장은 001c.7300.0099
 
-#### VARP 상태 확인 
+### VARP 상태 확인 
 
 ![image](https://github.com/user-attachments/assets/523964ec-a9b0-42c8-a1cc-6ed146cc3325)
 
@@ -251,7 +251,7 @@ Interface VLAN
 
 - 소스 라우팅(Source Routinng) : 출발지 정보를 참고하여 경로를 선정하는 방식
 
-#### 라우팅 기능 활성화
+### 라우팅 기능 활성화
 
 ![image](https://github.com/user-attachments/assets/116435f0-1962-48dc-a88d-a24e36c23ae8)
 - 본 설정이 안되어 있는 경우 Routing은 동작 하지 않는다.
@@ -261,7 +261,7 @@ Interface VLAN
 
 ![image](https://github.com/user-attachments/assets/a097e671-1b57-4aeb-88ce-0177cc554c13)
 
-#### Static Routinng 
+### Static Routinng 
 - 정적 경로 설정법
 
 ![image](https://github.com/user-attachments/assets/61fca626-baa6-40a9-be3e-c2a7a51a43af)
@@ -273,7 +273,7 @@ Interface VLAN
 ![image](https://github.com/user-attachments/assets/eba6f859-0084-430f-8f2f-cf918e23eaf6)
 
 
-#### RIP (Routing Information Protocol)
+### RIP (Routing Information Protocol)
 - RIP 설정법
 
 ![image](https://github.com/user-attachments/assets/94ff2ef2-4d34-47e2-bbd3-4d5bfcf6444f)
@@ -284,7 +284,7 @@ Interface VLAN
 ![image](https://github.com/user-attachments/assets/b5dca026-ed6e-42b9-a739-aeb595b23d1c)
 
 
-#### OSPF (Open Shortest Path First) 
+### OSPF (Open Shortest Path First) 
 - OSPF 설정법
 
 ![image](https://github.com/user-attachments/assets/ff1fddc9-729f-4d13-b525-2d92198d44c2)
@@ -297,7 +297,7 @@ Interface VLAN
 ![image](https://github.com/user-attachments/assets/952406a9-c02a-4f32-bf5f-37fdd4beafcb)
 
 
-#### BGP (Border Gateway Protocol) 
+### BGP (Border Gateway Protocol) 
 - BGP 설정법
 
 ![image](https://github.com/user-attachments/assets/9576ca42-d88f-45c3-b8bf-f60d3541f5ba)
@@ -379,7 +379,7 @@ Interface VLAN
 ![image](https://github.com/user-attachments/assets/701fa23c-d250-4036-9ebb-3023c9ae750b)
 
 
-#### Monitor Session 
+### Monitor Session 
 - SPAN 설정은 Monitor Session으로 설정하며, Source Port(원본 포트) / Destination Port(복제된 포트) / Direction(트래픽 방향) / Filter(ACL 이용)를 설정할 수 있다.
 - **MLAG 멤버 포트를 미러 대상(Destination)으로 사용해서는 안된다.** 
 - 지원하는 모니터 세션 수
