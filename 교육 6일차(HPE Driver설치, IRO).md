@@ -1,3 +1,19 @@
+### DL380 Gen10 Plus OS 설치 방법
+#### **1. Windows 설치 후 드라이버 올리는 방법** 
+- One-Time Boot Menu -> Rear USB 1: IODD iodd2531 -> 한번 부팅 -> BIOS 실행화면에서 ESC를 눌러 저장
+- Windows 설치 후 Windows 화면에서 장치 관리자 접속 -> 네트워크 어댑터 확인하여 **'!'**가 뜨는지 확인
+- ISO -> HP SW -> SPP -> SPP Gen 10 Plus -> Launch sum -> 그러면 ahs가 다운 받아진다 이후 자동으로 웹사이트가 나오는데 그 웹사이트에서 설정 (Localhlost Guided Update(Server와 IODD랑 버전을 비교해서 최신으로 업데이트 하는 것 을 설정하는 곳) -> Interactive(수동) / Automatic(자동) 선택
+※ HPE Gen 10 Plus SPP download를 검색해서 로그인하면 필요한 Software를 다운받을 수 있다. 
+**(HPE 파트너이상부터 다운가능)**
+
+#### ILO의 라이센스 넣는 방법 (장비마다 라이센서를 구매해야 함)
+- ALO Administration -> Licensing 접속 -> license의 Key값을 넣으면 된다.
+
+#### **2. BIOS Intelligent Provisioning(IP)을 사용해서 Driver를 올리는 방법**
+- BIOS 실행화면에서 F10을 누른 후 -> Intelligent Provisioning -> Performance Maintenance 
+**※ BIOS에서도 설치가 가능하다, 하지만 시간이 많이 소요되어서 잘 쓰지 않는다.**
+
+
 ### HPE 380 Gen10 Plus IRO
 - 2U는 1U보다 부품이 많고 크기가 커서 로딩 시간이 길고 소리가 더 크다.
 - **IRO의 아이디 비밀번호는 서버 장비 전원 밑 카드 User Name과 Password를 참고하면 된다**.
@@ -23,20 +39,6 @@
 - Administration : ILO 아이디 비밀번호 생성 / 삭제 가능
 
 
-### DL380 Gen10 Plus OS 설치 방법
-#### **1. Windows 설치 후 드라이버 올리는 방법** 
-- One-Time Boot Menu -> Rear USB 1: IODD iodd2531 -> 한번 부팅 -> BIOS 실행화면에서 ESC를 눌러 저장
-- Windows 설치 후 Windows 화면에서 장치 관리자 접속 -> 네트워크 어댑터 확인하여 **'!'**가 뜨는지 확인
-- ISO -> HP SW -> SPP -> SPP Gen 10 Plus -> Launch sum -> 그러면 ahs가 다운 받아진다 이후 자동으로 웹사이트가 나오는데 그 웹사이트에서 설정 (Localhlost Guided Update(Server와 IODD랑 버전을 비교해서 최신으로 업데이트 하는 것 을 설정하는 곳) -> Interactive(수동) / Automatic(자동) 선택
-※ HPE Gen 10 Plus SPP download를 검색해서 로그인하면 필요한 Software를 다운받을 수 있다. 
-**(HPE 파트너이상부터 다운가능)**
-
-#### ILO의 라이센스 넣는 방법 (장비마다 라이센서를 구매해야 함)
-- ALO Administration -> Licensing 접속 -> license의 Key값을 넣으면 된다.
-
-#### **2. BIOS Intelligent Provisioning(IP)을 사용해서 Driver를 올리는 방법**
-- BIOS 실행화면에서 F10을 누른 후 -> Intelligent Provisioning -> Performance Maintenance 
-**※ BIOS에서도 설치가 가능하다, 하지만 시간이 많이 소요되어서 잘 쓰지 않는다.**
 
 #### 케이블 
 - UTP(Category) : 1Gbps
