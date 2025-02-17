@@ -38,6 +38,6 @@
 - BIOS 실행화면에서 F10을 누른 후 -> Intelligent Provisioning -> Performance Maintenance 
 **※ BIOS에서도 설치가 가능하다, 하지만 시간이 많이 소요되어서 잘 쓰지 않는다.**
 
-
+#### 케이블 
 - UTP(Category) : 1Gbps
 - 지비기 광통신(광케이블) : 10Gbps ↑ 
