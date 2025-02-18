@@ -3,11 +3,11 @@
 - One-Time Boot Menu -> Rear USB 1: IODD iodd2531 -> 한번 부팅 -> BIOS 실행화면에서 ESC를 눌러 저장
 - Windows 설치 후 Windows 화면에서 장치 관리자 접속 -> 네트워크 어댑터 확인하여 '!'가 뜨는지 확인
 
-- ISO -> HP SW -> SPP -> SPP Gen 10 Plus -> Launch sum -> 그러면 ahs가 다운 받아진다 이후 자동으로 웹사이트가 나오는데 그 웹사이트에서 설정 (Localhlost Guided Update(Server와 IODD랑 버전을 비교해서 최신으로 업데이트 하는 것 을 설정하는 곳) -> Interactive(수동) / Automatic(자동) 선택
+- (IODD에서) ISO -> HP SW -> SPP -> SPP Gen 10 Plus -> Launch sum -> 그러면 ahs가 다운 받아진다 이후 자동으로 웹사이트가 나오는데 그 웹사이트에서 설정 (Localhlost Guided Update(Server와 IODD랑 버전을 비교해서 최신으로 업데이트 하는 것 을 설정하는 곳) -> Interactive(수동) / Automatic(자동) 선택
 ※ HPE Gen 10 Plus SPP download를 검색해서 로그인하면 필요한 Software를 다운받을 수 있다. 
 **(HPE 파트너이상부터 다운가능)**
 
-#### **2. BIOS Intelligent Provisioning(IP)을 사용해서 Driver를 올리는 방법**
+#### **2. BIOS Intelligent Provisioning(IP)을 사용해서 Driver를 올리는 방법 (Window 설치 전)**
 - BIOS 실행화면에서 F10을 누른 후 -> Intelligent Provisioning -> Performance Maintenance 
 **※ BIOS에서도 설치가 가능하다, 하지만 시간이 많이 소요되어서 잘 쓰지 않는다.**
 
