@@ -67,6 +67,7 @@ Storage에 연결된 Disk를 확인, Raid 구성
 
 --- 
 AMD - HPE Server 뒤에 숫자 5가 붙는다. ex) DL 385 
+
 Intell - HPE Server 뒤에 숫자 0이 붙는다. ex) DL 380
 
 
