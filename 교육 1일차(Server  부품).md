@@ -1,4 +1,4 @@
-1.	HPE ProLiant DL360 Gen10 Model 실습
+### 1.	HPE ProLiant DL360 Gen10 Model 실습
 - 고성능과 보안을 자랑하는 고밀도 1U 랙 서버.
   ※ProLiant : 서버 브랜드 이름
     DL : 고밀도 서버 (360 : 1U / 2개의 CPU),(380 : 2U / 2개의 CPU)
