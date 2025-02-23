@@ -11,6 +11,7 @@
 ※ DL360 과 DL380의 차이점 
 - DL360 : 1U, 1개 Riser에 2개의 NIC 및 구성품 삽입 가능, 기본 디스크8개 + 후면 드라이브에 2개 추가가능 
 - DL380 : 2U, 1개 Riser에 3개의 NIC 및 구성품 삽입 가능, 기본디스크 24개+ 후면 드라이브에 6개 추가가능 
+
 #### SAS와 SATA
 ![SATA 와 SAS](https://github.com/user-attachments/assets/a408d6bc-7a53-40de-b812-c41d51a47bc2)
 
