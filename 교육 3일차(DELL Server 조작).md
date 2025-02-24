@@ -1,4 +1,4 @@
-### DELL 440R LCD모니터 연결 조작 및 확인
+### DELL 440R BIOS 연결 조작 및 확인
 - System BIOS Settings -> Process Setting (CPU 확인 가능)
 CPU : Intel(r) Xeon(R) Gold 6138 2.00GHz 
 Coers : 20 
