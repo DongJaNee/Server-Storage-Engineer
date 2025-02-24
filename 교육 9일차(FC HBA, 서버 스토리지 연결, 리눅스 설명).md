@@ -8,6 +8,11 @@
 
 ![image](https://github.com/user-attachments/assets/0677c908-75f1-44a4-8fe4-039274d999f8)
 
+#### SFP 포트
+
+![image](https://github.com/user-attachments/assets/5aed03af-a105-4671-b556-f4a0b170bbd8)
+
+
 ---
  ### FC HBA란?
 - Fibre Channel HBA의 줄임말
