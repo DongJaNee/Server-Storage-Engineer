@@ -14,6 +14,18 @@
 - DL360 : 1U, 1개 Riser에 2개의 NIC 및 구성품 삽입 가능, 기본 디스크8개 + 후면 드라이브에 2개 추가가능 
 - DL380 : 2U, 1개 Riser에 3개의 NIC 및 구성품 삽입 가능, 기본디스크 24개+ 후면 드라이브에 6개 추가가능 
 
+### **2U Riser NIC Slot**
+
+![image](https://github.com/user-attachments/assets/9d46a4a9-d100-4f84-a751-914210720ac0)
+
+
+### **DL 380 plus PCle slot**
+
+![image](https://github.com/user-attachments/assets/4ba84d66-5e0a-41d8-9dc9-1059fc4b2d97)
+ 
+
+
+
 ### SAS와 SATA
 ![SATA 와 SAS](https://github.com/user-attachments/assets/a408d6bc-7a53-40de-b812-c41d51a47bc2)
 
