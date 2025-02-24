@@ -1,4 +1,4 @@
-### ProLiant DL380 Gen10 LCD모니터 연결 조작 및 확인 
+### ProLiant DL380 Gen10 BIOS 연결 조작 및 확인 
 - 서버명 : ProLiant DL380 Gen10 (System Configuration -> System information -> Summery에서 확인 가능) 
 - CPU : Silver 4214R (System information -> Processor information에서 CPU 확인가능)
 - 메모리 : DIMM 256GB (System information -> Summary에서 메모리 용량, 총량 확인 가능)
