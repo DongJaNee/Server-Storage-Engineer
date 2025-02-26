@@ -9,7 +9,7 @@
 
 ### 3. 서버 BIOS 설정 
 - F9 : System BIOS 세팅 초기화 가능 
-- F5 : Raid 구성
+- F5 : Smart Array Controller에서 Raid 구성
 - F11 -> 3 Click : Red Hat Linux 설정
 
 ### 4. Red Hat Linux 설치 
