@@ -15,6 +15,7 @@
 ### 4. Red Hat Linux 설치 
 - 빨간색으로 표시된 Root, 소프트웨어 설정, Disk설정 등 기입 후 Server Reboot 하면 설치가 완료 된다. 
 
+<br>
 
-
+### ※ Gen9, 10, 10 plus 등 Linux 설치구성은 비슷하지만, GUI가 많이 다르다.
  
