@@ -1,5 +1,30 @@
-## Fujitsu IRMC 확인 방법.
+## 서버 구분
+- Fujitsu서버는 RX 시리즈와 TX 시리즈, BX 시리즈가 있다.
+- 구분 : R은 Rack 타입 / T는 Tower 타입 / B는 블레이드 서버
+<br>
+ex) TX200 S6 Server 
+<br>
+TX - Tower
+<br>
+200 - 서버의 성능 및 규모. (숫자가 클수록 고성능, 더 많은 기능을 가진 서버)
+<br>
+S6 - 6세대
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/572ec34e-381f-440d-aac5-f24759c931f5)
+
+
 ---
+
+
+### IRMC Web Interface 접속 방법
+- BIOS에서 설정한 IRMC의 IP 주소를 웹 브라우저에 입력하면 IRMC 관리 화면에 접속할 수 있다.
+ex)
+- IRMC IP : 192.168.1.100 (BIOS에서 설정)
+- 웹 브라우저에서 접속 : http://192.168.1.100
+- IRMC 로그인 화면이 나타난다.
+
 
 ### 로그인  
 1. 로그인 하기 전 IRMC 포트를 연결 한다.
@@ -23,4 +48,6 @@
 <br>
 
 ![image](https://github.com/user-attachments/assets/cff9c96d-968a-4964-a4ba-2a3004698221)
+
+---
 
