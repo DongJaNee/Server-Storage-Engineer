@@ -90,7 +90,7 @@
 
 
 ----
-
+sqlplust "/ as sysdba"
 selcet * from all_users;
 delete all_users;
 create user test 
