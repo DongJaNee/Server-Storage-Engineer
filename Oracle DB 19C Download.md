@@ -91,53 +91,12 @@
 
 ----
 
-1) 오라클 계정으로 접속
+selcet * from all_users;
+delete all_users;
+create user test 
+identified by 0000;
 
-SQL> sqlplus system/1234;  --오라클 설치시 설정해두었던 패스워드
+connect sys/oracle as sysdba 
+grant connect, resource, dba to test;
+conn test/0000;
 
-
-
-다음에 접속됨:
-
-Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production
-
-With the Partitioning, OLAP, Advanced Analytics and Real Application Testing options
-
-
-
-2) test계정 만들어 보기
-
-SQL> create user test identified by test
-
-SP2-0640: 연결되지 않았습니다.
--- 접속을 시켜 보죠.
-
-SQL> conn sys/oracle as sysdba
-
-연결되었습니다.
-
---접속이 되었네요. 이건 안해도 될듯...;;;
-
-
-
-먼가 잘못 되어서 난 에러 입니다. 
-
-삽질 해보니 오라클 12c부터 공통계정 앞에 c##넣어 라고 하네요 번거롭지만 그렇게 하고 해야 하드라구요....
-
-
-
-SQL> create user c##test identified by test
-
-User C##TEST1이(가) 생성되었습니다.
-
-권한 까지 줘야 접속이 되요~
-
-SQL> grant connect, resource, dba to c##test; 
-
-SQL> grant connect, dba, resource to c##test; //모든권한 주기 
-
-이렇게 권한 주면 끝 접속 해보죠!!
-
-SQL> conn c##test/test;
-
-연결되었습니다.
