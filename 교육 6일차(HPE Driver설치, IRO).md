@@ -1,4 +1,11 @@
-### DL380 Gen10 Plus OS 설치 방법
+## DL380 Gen10 Plus OS 설치 방법
+
+![image](https://github.com/user-attachments/assets/678625d2-ac3f-48e2-8d55-9a15e549e130)
+
+![image](https://github.com/user-attachments/assets/e497310a-b4fa-4647-8449-605f75d74ddc)
+
+
+---
 #### **1. Windows 설치 후 드라이버 올리는 방법** 
 - One-Time Boot Menu -> Rear USB 1: IODD iodd2531 -> 한번 부팅 -> BIOS 실행화면에서 ESC를 눌러 저장
 - Windows 설치 후 Windows 화면에서 장치 관리자 접속 -> 네트워크 어댑터 확인하여 '!'가 뜨는지 확인
