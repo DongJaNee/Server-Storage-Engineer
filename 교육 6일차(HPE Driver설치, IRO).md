@@ -27,8 +27,7 @@
 ---
 ### HPE 380 Gen10 Plus IRO
 
-![image](https://github.com/user-attachments/assets/d4a36aaa-e53e-4915-aee0-5b8cc8944a3f)
-
+![image](https://github.com/user-attachments/assets/0621b59d-0e3a-4f6f-b0e6-ecbdf268d4f3)
 
 - 2U는 1U보다 부품이 많고 크기가 커서 로딩 시간이 길고 소리가 더 크다.
 - **IRO의 아이디 비밀번호는 서버 장비 전원 밑 카드 User Name과 Password를 참고하면 된다**.
@@ -39,7 +38,7 @@
 ---
 ### ILO Information 
 
-![image](https://github.com/user-attachments/assets/0621b59d-0e3a-4f6f-b0e6-ecbdf268d4f3)
+![image](https://github.com/user-attachments/assets/d4a36aaa-e53e-4915-aee0-5b8cc8944a3f)
 
 
 - 디스크 장애 처리 시 Part Number 확인 (디스크 고유 넘버를 확인하여 정확한 장애 처리가 가능하다.)
