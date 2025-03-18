@@ -26,19 +26,14 @@
 
 ---
 ### HPE 380 Gen10 Plus IRO
+
+![image](https://github.com/user-attachments/assets/d4a36aaa-e53e-4915-aee0-5b8cc8944a3f)
+
+
 - 2U는 1U보다 부품이 많고 크기가 커서 로딩 시간이 길고 소리가 더 크다.
 - **IRO의 아이디 비밀번호는 서버 장비 전원 밑 카드 User Name과 Password를 참고하면 된다**.
 - Lifecycle Management 하에 노트북으로 BIOS 화면 확인 가능하다.
 - HPE 서버 부팅 중 확인할 수 있는 정보 : 메모리와 사용 가능한 메모리, 코어의 개수, 시리얼 넘버 등이있다. 
-
-
----
-### System Configuration 
-- Slot : 서버 메인보드나 다른 컴포넌트에 추가 장치나 카드를 삽입할 수 있는 물리적인 공간
-- Port : 서버나 다른 장치에 연결되는 물리적인 인터페이스, Slot에 여러 Port가 장착된다
-- Storage Slot : 레이드 컨트롤 가능 (**Configuration Management에서 Create Logical Drive 선택**)
-- System Utilities -> System Information : 시스템 정보 확인 
-- BIOS에서의 HPE와 DELL의 차이점 : HPE가 더 상세하게 설명되어있다. 
 
 
 ---
@@ -50,6 +45,15 @@
 - Device Inventory : 주변 장치 구성 확인
 - ILO Storage : 디스크 구성 상태 확인 가능
 - Administration : ILO 아이디 비밀번호 생성 / 삭제 가능
+
+
+---
+### System Configuration 
+- Slot : 서버 메인보드나 다른 컴포넌트에 추가 장치나 카드를 삽입할 수 있는 물리적인 공간
+- Port : 서버나 다른 장치에 연결되는 물리적인 인터페이스, Slot에 여러 Port가 장착된다
+- Storage Slot : 레이드 컨트롤 가능 (**Configuration Management에서 Create Logical Drive 선택**)
+- System Utilities -> System Information : 시스템 정보 확인 
+- BIOS에서의 HPE와 DELL의 차이점 : HPE가 더 상세하게 설명되어있다. 
 
 
 ---
