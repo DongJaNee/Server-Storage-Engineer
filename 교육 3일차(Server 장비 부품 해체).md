@@ -35,7 +35,8 @@
 ![SC30 Driver](https://github.com/user-attachments/assets/88a69daf-6fb7-4c87-886d-16c821511d6b)
 
 - 그림에 부착되어있는 순서대로 SC30 드라이버로 나사를 풀어서 방열판을 위로 살며시 들어서 해체.
-※주의 : CPU와 CPU핀이 손상되면 안된다. 그러므로 조심히 다뤄야함.
+
+  **※주의 : CPU와 CPU핀이 손상되면 안된다. 그러므로 조심히 다뤄야함.**
 
 ---
 ### 5.  Riser와 NIC
