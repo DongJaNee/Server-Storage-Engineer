@@ -1,10 +1,11 @@
-### ProLiant DL380 Gen10 Server 부품 해체 방법
+## ProLiant DL380 Gen10 Server 부품 해체 방법
+
 
 ![HPE ProLiant DL380 Gen10 Model (2U)](https://github.com/user-attachments/assets/e96a896f-d639-47c5-8710-6177f7b97c45)
+
 ---
 
-
-#### 1. 파워 서플라이 해체
+### 1. 파워 서플라이 해체
 
 ![파워 서플라이 해체](https://github.com/user-attachments/assets/142115c4-0b3b-455a-93f8-b5d874c1b660)
 
@@ -28,7 +29,7 @@
 - 위쪽에 있는 양옆 손잡이를 안쪽으로 밀어서 해체
 
 ---
-### 4. 방열판과 CPU
+## 4. 방열판과 CPU
 
 ![CPU 슬롯](https://github.com/user-attachments/assets/0c6b58ac-d05c-4017-adc0-27e0da8aaa8a)
 ![SC30 Driver](https://github.com/user-attachments/assets/88a69daf-6fb7-4c87-886d-16c821511d6b)
@@ -47,7 +48,7 @@
 - ③ NIC와 수평으로 되어있는 파란색 긴 막대를 위로 올린 뒤 NIC슬롯을 해체.
 
 ---
-### 6. DISK
+## 6. DISK
 
 ![Disk](https://github.com/user-attachments/assets/281e32c5-0b62-40ad-87db-7d8eb792e8d7)
 
