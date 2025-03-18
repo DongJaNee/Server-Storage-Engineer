@@ -1,5 +1,9 @@
 ## PowerEdge R440 Server 서버 관리 및 설치 가이드
----
+
+![image](https://github.com/user-attachments/assets/f1e48db2-fd1e-40d0-b010-06d84125f8dd)
+
+![image](https://github.com/user-attachments/assets/33b5d59d-1147-4ad3-9f70-e807fb805d98)
+
 
 #### 1. 원격 전원 관리
 - Graceful Shutdown 클릭 -> Power Off: 원격으로 서버 장비의 전원을 켜고 끌 수 있다.
