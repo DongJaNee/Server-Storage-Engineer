@@ -17,7 +17,7 @@
  ### FC HBA란?
 - Fibre Channel HBA의 줄임말
 - **FC를 사용할 수 있도록 호스트에 설치되는 PCI 카드이다.**
-- FC HBA 기반의 DAS 혹은 SAN과 연결 하여 호스트와 Diisk Array간에 인터페이스를 할 수 있도록 하는 HBA.
+- FC HBA 기반의 DAS 혹은 SAN과 연결 하여 호스트와 Disk Array간에 인터페이스를 할 수 있도록 하는 HBA.
 ※ NIC만 장착된 장비에서 FC 케이블 사용하려면 별도 HBA를 장착해야 한다. 
 
 #### FC HBA PCI 카드가 서버에 설치되어 있다면
