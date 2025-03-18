@@ -12,7 +12,7 @@
 - Raid 전체 삭제 : System Configuration -> Raid -> Configure Controller Setting -> Clear Configuration -> Delete All Array Configuration 
 
 ### OS 설치 방법  
-1. remove film 연결 -> window 2022 접속 
+1. remove film(IODD) 연결 -> window 2022 접속 
 2. One time Boot Menu -> internal USB 1 : iODD iodd2531 -> 엔터 2번 -> 다음 -> 지금 설치 -> 사용자 지정 -> 드라이브 로드 -> 확인 
 
 
