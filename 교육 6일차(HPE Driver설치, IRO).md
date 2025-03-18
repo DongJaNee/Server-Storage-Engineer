@@ -38,6 +38,10 @@
 
 ---
 ### ILO Information 
+
+![image](https://github.com/user-attachments/assets/0621b59d-0e3a-4f6f-b0e6-ecbdf268d4f3)
+
+
 - 디스크 장애 처리 시 Part Number 확인 (디스크 고유 넘버를 확인하여 정확한 장애 처리가 가능하다.)
 - Link Up : 연결이 완료됨
 - Link Down : 연결이 해제됨
