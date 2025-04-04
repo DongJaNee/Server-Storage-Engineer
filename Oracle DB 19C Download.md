@@ -100,3 +100,11 @@ connect sys/oracle as sysdba
 grant connect, resource, dba to test;
 conn test/0000;
 
+## Oracle DB Server에 설치 
+- Oracle DB 19C Download
+- Setup 관리자로 실행
+- Setup 설정은 Server형으로 설치해야함 DeskTop이랑 다름
+- 나머지 CMD 활용 등 DeskTop과 동일
+- Developer는 24.3.1 버전을 다운
+  JDK 11 내장 Oracle devloper 
+  https://www.oracle.com/tools/downloads/sqldev-downloads.html
